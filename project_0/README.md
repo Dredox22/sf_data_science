@@ -40,7 +40,7 @@
 :arrow_up: [к оглавлению](https://github.com/Dredox22/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
-### Результаты:
+### Результат:
 ....
 
 :arrow_up: [к оглавлению](https://github.com/Dredox22/sf_data_science/tree/main/project_0/README.md#Оглавление)
