@@ -4,7 +4,7 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проетк 1. Анализ вакансий HeadHunter](https://github.com/Dredox22/sf_data_science/tree/main/poject_1)
+* [Проект 1. Анализ вакансий HeadHunter](https://github.com/Dredox22/sf_data_science/tree/main/poject_1)
 
 
 ## Задания
