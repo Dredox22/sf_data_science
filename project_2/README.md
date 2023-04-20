@@ -56,34 +56,34 @@
 ### Предварительный анализ данных ###
 
 В датасете 5 таблиц:    
-![Схема таблиц](schema.png)
+![Схема таблиц](img/schema.png)
 
 #### vacancies ####
 
 Таблица хранит в себе данные по вакансиям и содержит следующие столбцы:    
-![vacancies table](vacancies.png)    
+![vacancies table](img/vacancies.png)    
 Зарплатная вилка&nbsp;&mdash; это верхняя и нижняя граница оплаты труда в рублях
 (зарплаты в других валютах уже переведены в рубли). Соискателям она показывает,
 в каком диапазоне компания готова платить сотруднику на этой должности.
 
 #### areas ####
 
-![areas table](areas.png)    
+![areas table](img/areas.png)    
 Таблица-справочник, которая хранит код города и его название.    
 
 #### employers ####
 
-![employers table](employers.png)    
+![employers table](img/employers.png)    
 Таблица-справочник со списком работодателей.    
 
 #### industries ####
 
-![industries table](industries.png)    
+![industries table](img/industries.png)    
 Таблица-справочник вариантов сфер деятельности работодателей.    
 
 #### employers_industries ####
 
-![employers_industries table](employers_industries.png)
+![employers_industries table](img/employers_industries.png)
 Дополнительная таблица, которая существует для организации связи между
 работодателями и сферами их деятельности.    
 Эта таблица нужна, поскольку у одного работодателя может быть несколько сфер
