@@ -4,8 +4,8 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 1. Анализ вакансий HeadHunter](https://github.com/Dredox22/sf_data_science/tree/main/project_1)
-* [Проект 2. Анализ вакансий HeadHunter](https://github.com/Dredox22/sf_data_science/tree/main/project_2)
+* [Проект 1. Анализ вакансий HeadHunter (Python)](https://github.com/Dredox22/sf_data_science/tree/main/project_1)
+* [Проект 2. Подгрузка новых данных с HeadHunter, анализ данных (SQL)](https://github.com/Dredox22/sf_data_science/tree/main/project_2)
 
 ## Задания
 
