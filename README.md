@@ -1,5 +1,5 @@
 # My Data Science projects
-
+![AI&Human](img/1920-80.jpg "AI&Human")
 From the [SkillFactory Data Science course](https://skillfactory.ru/data-scientist).
 
 ## Проекты
