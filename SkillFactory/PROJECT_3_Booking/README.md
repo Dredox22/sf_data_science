@@ -4,7 +4,7 @@
 
 [Ссылка на соревнование](https://www.kaggle.com/competitions/sf-booking)
 
-[Профиль на Kaggle&nbsp;&mdash; **######**](https://www.kaggle.com/#########)
+[Профиль на Kaggle&nbsp;&mdash; **Dredox**](https://www.kaggle.com/dredox)
 
 ### Содержание ###
 
@@ -111,11 +111,10 @@ README к проекту). Оформление проекта на GitHub, Kagg
 
 ### Результат ###
 
-[**`WF_BookingPro`**](https://www.kaggle.com/code/############)&nbsp;&mdash;
+[**`project-3-eda-feature-engineering-booking-reviews`**](https://www.kaggle.com/code/dredox/project-3-eda-feature-engineering-booking-reviews)&nbsp;&mdash;
 Notebook на Kaggle.com.
 
-[**`Project-3.ipynb`**](Project-3.ipynb)&nbsp;&mdash; Черновой (и более
-подробный) вариант решения.
+[**`project-3-eda-feature-engineering-booking-reviews`**](project-3-eda-feature-engineering-booking-reviews.ipynb)&nbsp;&mdash; Вариант решения на Github.
 
 [**`output/submission.csv`**](output/submission.csv)&nbsp;&mdash; Файл
 предсказаний.
