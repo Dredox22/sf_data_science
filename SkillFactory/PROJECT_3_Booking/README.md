@@ -34,11 +34,11 @@
 
 **Скачиваемые файлы:**
 
-- [**`hotels_train.csv.zip`**](https://drive.google.com/file/d/1jFkdObrBr9UrGVRHijfHWRUNt4B1XytY/view?usp=sharing)&nbsp;&mdash;
+- [**`hotels_train.csv`**](https://drive.google.com/file/d/1jFkdObrBr9UrGVRHijfHWRUNt4B1XytY/view?usp=sharing)&nbsp;&mdash;
 набор данных для обучения;
-- [**`hotels_test.csv.zip`**](https://drive.google.com/file/d/1jFkdObrBr9UrGVRHijfHWRUNt4B1XytY/view?usp=sharing)&nbsp;&mdash;
+- [**`hotels_test.csv`**](https://drive.google.com/file/d/1jFkdObrBr9UrGVRHijfHWRUNt4B1XytY/view?usp=sharing)&nbsp;&mdash;
 набор данных для оценки качества;
-- [**`submission.csv.zip`**](https://drive.google.com/file/d/1jFkdObrBr9UrGVRHijfHWRUNt4B1XytY/view?usp=sharing)&nbsp;&mdash;
+- [**`submission.csv`**](https://drive.google.com/file/d/1jFkdObrBr9UrGVRHijfHWRUNt4B1XytY/view?usp=sharing)&nbsp;&mdash;
 результирующий файл для Submission.
 
 **Датасет содержит 17 полей со следующей информацией:**
@@ -116,7 +116,7 @@ Notebook на Kaggle.com.
 
 [**`project-3-eda-feature-engineering-booking-reviews`**](project-3-eda-feature-engineering-booking-reviews.ipynb)&nbsp;&mdash; Вариант решения на Github.
 
-[**`output/submission.csv`**](output/submission.csv)&nbsp;&mdash; Файл
+[**`output/submission.csv`**](output/submission.csv, https://drive.google.com/file/d/16NZEBMb4LJ7_Odypyfimu3eJsBunI934/view?usp=sharing)&nbsp;&mdash; Файл
 предсказаний.
 
 [:arrow_up: Содержание](#содержание)
