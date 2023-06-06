@@ -34,11 +34,11 @@
 
 **Скачиваемые файлы:**
 
-- [**`hotels_train.csv.zip`**](https://drive.google.com/file/d/10PTV3z7bLPkjHc_OVanKtCFEDSS7z1Tn/view?usp=sharing)&nbsp;&mdash;
+- [**`hotels_train.csv.zip`**](https://drive.google.com/file/d/1jFkdObrBr9UrGVRHijfHWRUNt4B1XytY/view?usp=sharing)&nbsp;&mdash;
 набор данных для обучения;
-- [**`hotels_test.csv.zip`**](https://drive.google.com/file/d/1nUwezJ5sjMQ50br_L8Ehqr-TJaXksxZ9/view?usp=sharing)&nbsp;&mdash;
+- [**`hotels_test.csv.zip`**](https://drive.google.com/file/d/1jFkdObrBr9UrGVRHijfHWRUNt4B1XytY/view?usp=sharing)&nbsp;&mdash;
 набор данных для оценки качества;
-- [**`submission.csv.zip`**](https://drive.google.com/file/d/1t61EtcNUiriFcNiJxP-PpLwFKZMMl8Q_/view?usp=sharing)&nbsp;&mdash;
+- [**`submission.csv.zip`**](https://drive.google.com/file/d/1jFkdObrBr9UrGVRHijfHWRUNt4B1XytY/view?usp=sharing)&nbsp;&mdash;
 результирующий файл для Submission.
 
 **Датасет содержит 17 полей со следующей информацией:**
