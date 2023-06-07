@@ -116,7 +116,7 @@ Notebook на Kaggle.com.
 
 [**`project-3-eda-feature-engineering-booking-reviews`**](project-3-eda-feature-engineering-booking-reviews.ipynb)&nbsp;&mdash; Вариант решения на Github.
 
-[**`output/submission.csv`**](output/submission.csv, https://drive.google.com/file/d/16NZEBMb4LJ7_Odypyfimu3eJsBunI934/view?usp=sharing)&nbsp;&mdash; Файл
+[**`output/submission.csv`**](output/submission.csv) [**`submission.csv`**](https://drive.google.com/file/d/16NZEBMb4LJ7_Odypyfimu3eJsBunI934/view?usp=sharing)&nbsp;&mdash; Файл
 предсказаний.
 
 [:arrow_up: Содержание](#содержание)
