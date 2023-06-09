@@ -6,6 +6,7 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Проект 1. Анализ вакансий HeadHunter (Python)](https://github.com/Dredox22/sf_data_science/tree/main/project_1)
 * [Проект 2. Подгрузка новых данных с HeadHunter, анализ данных (SQL)](https://github.com/Dredox22/sf_data_science/tree/main/project_2)
+* [Проект 3. Прогнозирование рейтинга отеля на Booking (EDA & FE).](https://github.com/Dredox22/sf_data_science/tree/main/SkillFactory/PROJECT_3_Booking)
 
 ## Задания
 
