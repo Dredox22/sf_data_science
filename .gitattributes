@@ -1,0 +1,4 @@
+*.ipynb linguist-language=Python
+*.html linguist-documentation
+*.css linguist-documentation
+*.js linguist-documentation
